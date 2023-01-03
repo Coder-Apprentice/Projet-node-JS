@@ -102,6 +102,7 @@ https://handlebarsjs.com/
 Module Layouts-Helper-Each
 
 ayouts Helpers Each c'est quoi ?
+
 Le layout nous permettra de creer un modèle de page, par exemple nous pourrions creer un layout main (par default avec handlebars) qui nous permettra de recevoir les visiteurs, puis nous pourrions creer un layout admin pour tout ce qui est gestion/administration du site, un espace qui serait réserver pour les admin et modérateur.
 
 Les helpers sont des ajouts de mécanique logique dans notre code tel que forcer la mise en majuscule d'un texte, limiter l'affichage d'un tableau à un nombre précis, limiter une chaine de charactère à un certains nombre.
